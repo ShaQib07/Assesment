@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assessment - VU Mobile Limited</string>
+    <string name="user_image">UserImage</string>
+    <string name="user_list">User List</string>
+</resources>
